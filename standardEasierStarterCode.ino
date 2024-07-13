@@ -216,13 +216,13 @@ void driveBackwards()
 	digitalWrite(RIGHT_R, HIGH);
 }
 
-/*  Function: Move left
+/*  Function: Turn left
 /   parameters: none
 /   returns: none
 /   summary: this function turns sumobot to the left
 */
 
-void moveLeft()
+void turnLeft()
 {
     Serial.println("Moving left");
 	analogWrite(LEFT_SPEED, MAX_SPEED);
