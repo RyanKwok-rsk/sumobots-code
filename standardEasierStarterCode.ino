@@ -1,5 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
-// This is ___ authored by team ___ for MTRNSoc's sumobot competition
+// This is the basic Sumobots scaffold code authored by the workshops and
+// projects team for participants in MTRNSoc's 2024 sumobot competition.
 ////////////////////////////////////////////////////////////////////////////////
 
 // TODO: Define ultrasonic and infrared sensor pins
