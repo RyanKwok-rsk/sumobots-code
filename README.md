@@ -1,7 +1,7 @@
 # 🤖 Welcome to the Sumobots Coding Section!
 
 # About the Guide
-This guide provides a basic scaffold of code to control a sumobot. We have created 3 separate files for participants of different skill levels. This Guide was collaboratively created by Ryan Kwok, Albert Huu, Akhil Govan, and Bhavi Chauhan of the Mechatronics Projects and Workshops Team at UNSW. We are dedicated to providing resources and support for your sumobot coding journey. If you have any questions or see any errors please reach out to us on the discord. 
+This guide provides a basic scaffold of code to control a sumobot. We have created 3 separate files for participants of different skill levels. This Guide was collaboratively created by Ryan Kwok, Albert Huu, Akhil Govan, and Bhavi Chauhan of the Mechatronics Society's Projects and Workshops Team at UNSW. We are dedicated to providing resources and support for your sumobot coding journey. If you have any questions or see any errors please reach out to us on the discord. 
 
 ## Code files 📁: 
 - standardEasierStarterCode.ino - The basic sumobot scaffold with examples of functions, system states, etc... - for those who are less familiar with coding
