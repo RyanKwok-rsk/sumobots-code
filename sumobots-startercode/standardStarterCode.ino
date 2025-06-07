@@ -1,3 +1,8 @@
+////////////////////////////////////////////////////////////////////////////////
+// This is the Sumobots scaffold code authored by the workshops and
+// projects team for participants in MTRNSoc's 2024 sumobot competition.
+////////////////////////////////////////////////////////////////////////////////
+
 // TODO: Define ultrasonic and infrared sensor pins
 // REFER TO ARDUINO BASICS WORKSHOP ON HOW TO CODE SENSORS
 
